@@ -23,12 +23,34 @@
         </div>
         </header>
 
-        <section class="products">
+<section class="products">
   <div class="container">
+    <h3 class="product__pretitle" lang="en">100% natural</h3>
+    <h2 class="product__title" lang="en">products</h2>
     <ul class="products_list">
-      <li class="products_item"></li>
-      <li class="products_item"></li>
-      <li class="products_item"></li>
+      <li class="products_item">
+        <h3 class="product__subtitle" lang="en">ice cream</h3>
+        <p class="product__text">
+          По некоторым версиям прообраз современного мороженого придумали более четырех тысяч лет назад. 
+          За две тысячи лет до нашей эры в Китае для гостей подавали десерт, напоминающий мороженое. 
+        </p>
+      </li>
+      <li class="products_item">
+        <h3 class="product__subtitle" lang="en">ice coffee</h3>
+        <p class="product__text">
+          Холодный кофе - это отличное решение для тех, 
+          кто хочет быстро взбодриться и освежиться жарким летним днем.
+        </p>
+      </li>
+      <li class="products_item">
+        <h3 class="product__subtitle" lang="en">milkshakes</h3>
+        <p class="product__text">
+          Молочный коктейль - это сладкий холодный напиток, который обычно делается из молока, 
+          мороженого или замороженного молока, а также ароматизаторов или подсластителей,
+        </p>
+      </li>
     </ul>
   </div>
 </section>
+
+
